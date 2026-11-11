@@ -42,7 +42,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Asana](https://asana.com) - [Review](https://marketingtoolslist.com/asana) - Project management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives.
   - [Monday.com](https://monday.com) - [Review](https://marketingtoolslist.com/monday-com) - Work operating system to manage any team and any project with customizable workflows.
   - [Wrike](https://www.wrike.com) - [Review](https://marketingtoolslist.com/wrike) - Cloud-based collaboration and project management software.
-
+  - [RIO Integrated Marketing Campaign Framework](https://www.julienrio.com/landing/RIO-Integrated-Marketing-Campaign-Framework.php) – A three-phase method (Rally, Integrate, Orchestrate) for building integrated B2B marketing campaigns. Includes templates and playbook.
+  
 ### Budgeting and Forecasting
 
   - [PlanGuru](https://www.planguru.com) - Review - Budgeting, forecasting, and financial performance review software.
